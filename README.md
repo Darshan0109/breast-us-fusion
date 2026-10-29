@@ -6,7 +6,7 @@ from the predicted ROI and fused in a sparse logistic model. The model is traine
 **BUSI** and externally validated on **BUS-BRA**, a cohort from different scanners and a
 different institution.
 
-Code for the paper published in *Ultrasonic Imaging*.
+Code accompanying a manuscript currently under review.
 
 ![Internal vs external AUC](results/fig_internal_vs_external.png)
 
