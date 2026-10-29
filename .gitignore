@@ -1,0 +1,11 @@
+data/
+.ipynb_checkpoints/
+__pycache__/
+results/*.pt
+results/*.joblib
+results/*.npy
+results/*.pdf
+results/features_*.csv
+results/busi_near_duplicates_removed.csv
+results/feature_dictionary.csv
+results/config.json

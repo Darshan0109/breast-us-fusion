@@ -1,0 +1,11 @@
+deep_feature,"behaves_like (radiomics, signed r)",max_|r|
+deep_291,"shp_area (+0.54), fo_energy (+0.50), shp_perimeter (+0.45)",0.54
+deep_1775,"shp_solidity (-0.22), shp_perimeter (+0.15), shp_extent (-0.15)",0.22
+deep_1495,"shp_perimeter (+0.30), shp_area (+0.29), fo_energy (+0.23)",0.3
+deep_1098,"glcm_correlation (-0.28), glcm_contrast (+0.13), shp_area (-0.13)",0.28
+deep_1386,"fo_kurt (+0.14), fo_skew (+0.09), glcm_contrast (+0.09)",0.14
+deep_217,"shp_eccentricity (-0.22), shp_area (+0.22), fo_energy (+0.18)",0.22
+deep_1049,"fo_skew (+0.15), fo_kurt (+0.12), fo_std (+0.10)",0.15
+deep_25,"glcm_correlation (-0.17), fo_std (-0.15), fo_p10 (+0.13)",0.17
+deep_313,"glcm_contrast (+0.47), glcm_correlation (-0.43), glcm_dissimilarity (+0.39)",0.47
+deep_1407,"shp_area (+0.40), fo_energy (+0.37), shp_perimeter (+0.34)",0.4
